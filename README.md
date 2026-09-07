@@ -10,3 +10,6 @@ it is strage of the files we make throgh git, it was like google drive
 it works like a command tool
 ### what are the main parts of githubs?
 reposetory , branches readme,issues
+
+guide by
+[Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
